@@ -146,7 +146,7 @@ flowchart TD
 | Topic                                 | Resources                                                                                                    |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | ⚙️ **RTOS Fundamentals**              | 📖 [FreeRTOS Documentation](https://www.freertos.org/)                                                       |
-| 🧵 **FreeRTOS Programming**           | 📖 [FreeRTOS Kernel Documentation](https://www.freertos.org/Documentation/02-Kernel)                         |
+| 🧵 **FreeRTOS Programming**           | 📖 [FreeRTOS Kernel Documentation](https://www.freertos.org/Documentation/01-FreeRTOS-quick-start/01-Beginners-guide/00-Overview) |
 | ☁️ **Cloud IoT Fundamentals**         | 📖 [AWS IoT Core Documentation](https://docs.aws.amazon.com/iot/)                                            |
 | ☁️ **AWS IoT Core**                   | 🎓 [AWS IoT Getting Started](https://docs.aws.amazon.com/iot/latest/developerguide/iot-gs.html)              |
 | 📨 **Cloud MQTT**                     | 📖 [AWS IoT Core – MQTT](https://docs.aws.amazon.com/iot/latest/developerguide/mqtt.html)                    |
@@ -159,7 +159,7 @@ flowchart TD
 | ⚡ **Edge Computing**                  | 📖 [AWS – Edge Computing](https://aws.amazon.com/edge/)                                                      |
 | 🤖 **TinyML**                         | 🎓 [Harvard TinyML Course](https://www.edx.org/certificates/professional-certificate/harvardx-tiny-machine-learning)|
 | 🧠 **Edge AI**                        | 📖 [Edge Impulse Documentation](https://docs.edgeimpulse.com/)                                               |
-| 🏭 **Industrial IoT**                 | 📖 [NIST – Smart Manufacturing](https://www.nist.gov/programs-projects/smart-manufacturing)                  |
+| 🏭 **Industrial IoT**                 | 📖 [NIST – Smart Manufacturing]([https://www.nist.gov/programs-projects/smart-manufacturing](https://www.nist.gov/smart-manufacturing)) |
 | 🔄 **Digital Twins**                  | 📖 [Microsoft – Azure Digital Twins](https://learn.microsoft.com/en-us/azure/digital-twins/)                 |
 | 🏗️ **IoT System Architecture**       | 📖 [AWS IoT Architecture](https://docs.aws.amazon.com/wellarchitected/latest/iot-lens/welcome.html)          |
 
@@ -207,58 +207,5 @@ AWS's current tutorials explicitly support learning paths from connecting a firs
 25. 🌐 **Scalable Multi-Device IoT Platform**
 
 ---
-
-## 🧭 Recommended Learning Path
-
-```text
-🔌 Electronics Fundamentals
-        ↓
-💻 C/C++ Programming
-        ↓
-🧠 Embedded Systems
-        ↓
-🤖 Arduino
-        ↓
-🟦 ESP32 ⭐
-        ↓
-🌐 Networking
-        ↓
-🔌 UART / I²C / SPI / CAN
-        ↓
-📡 Wi-Fi / BLE
-        ↓
-📨 MQTT ⭐⭐⭐
-        ↓
-🐍 Python
-        ↓
-🚀 FastAPI / Backend
-        ↓
-🗄️ Databases
-        ↓
-📊 Node-RED / Grafana
-        ↓
-☁️ Cloud IoT ⭐⭐⭐
-        ↓
-🔐 IoT Security ⭐⭐⭐
-        ↓
-🔄 OTA / Device Management
-        ↓
-⚙️ RTOS / FreeRTOS
-        ↓
-📡 LoRaWAN / Cellular IoT
-        ↓
-⚡ Edge Computing
-        ↓
-🤖 TinyML / Edge AI ⭐⭐⭐
-        ↓
-🏭 Industrial IoT
-        ↓
-🪞 Digital Twins
-        ↓
-🏗️ IoT System Design
-```
-
----
-
 
 > 💡 **Final Tip:** IoT is an interdisciplinary field. You don't need to master every area equally. Build enough **electronics + embedded systems** knowledge to work with hardware, then develop stronger skills in **networking, software, cloud, security, and AI** according to your specialization.
