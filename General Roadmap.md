@@ -20,7 +20,7 @@ This roadmap is divided into **three levels**:
 | 💻 **C/C++ Fundamentals**            | 🎓 [LearnCpp](https://www.learncpp.com/)<br> 🎥 [PLaylist - C programming MIT](https://youtube.com/playlist?list=PLo7g9OE1yqEKY4KxAiPpqA9gp7XOcPQ2V&si=SIY4YsSZxo-n5bd2)<br> 📄 [GeeksForGeeks - C++ Programming Language](https://www.geeksforgeeks.org/cpp/c-plus-plus/)<br> 📄 [w3schools - C++ Introduction](https://www.w3schools.com/cpp/cpp_intro.asp) |
 | 🧠 **Embedded Systems Fundamentals** | 📄 [Embedded Systems – ARM Education](https://www.arm.com/resources/education)<br> 🎥 [MaharaTech - Embedded Systems](https://maharatech.gov.eg/course/index.php?categoryid=309)<br> 🎥 [Coursera - Introduction to the Internet of Things and Embedded Systems](https://www.coursera.org/learn/iot)<br> 🎥 [Foolish Engineer - Embedded Systems](https://youtube.com/playlistlist=PLbGlpmZLQWJceYTFXwBjYnUNN2vyVKYNA&si=NIFZrL1RyQCqw4l-) |
 | 🤖 **Arduino Fundamentals**          | 📄 [Arduino Documentation](https://docs.arduino.cc/)<br> 🎥 [Arafa Microsy - Arduino كورس اردوينو](https://youtube.com/playlist?list=PLa4kqtM7SuFwpY8omRT32RK8kw1hDIGJ3&si=FAFJnbeCxH7q1sOI)<br> 📄 [GeeksForGeeks - Arduino Coding Basics](https://www.geeksforgeeks.org/electronics-engineering/arduino-coding-basics/)<br> 🎥 [Coursera - An Introduction to Programming the Internet of Things (IOT) Specialization](https://www.coursera.org/specializations/iot)|
-| 🧪 **Arduino Projects**              | 📖 [Arduino Tutorials](https://docs.arduino.cc/tutorials/)<br> 🎥 [Playlist - Arduino Projects | Full Tutorial](https://youtube.com/playlist?list=PLKASro0L7R2XA4I8bJpARx9vq9hSyos7l&si=5OKvTlIprkyJJ3ti) |
+| 🧪 **Arduino Projects**              | 📖 [Arduino Tutorials](https://docs.arduino.cc/tutorials/)<br> 🎥 [Playlist - Arduino Projects](https://youtube.com/playlist?list=PLKASro0L7R2XA4I8bJpARx9vq9hSyos7l&si=5OKvTlIprkyJJ3ti) |
 | 🔧 **Sensors & Actuators**           | 📖 [Arduino Documentation](https://docs.arduino.cc/)<br> 📄 [GeeksForGeeks - Difference between Sensor and Actuator](https://www.geeksforgeeks.org/electronics-engineering/difference-between-sensor-and-actuator/)<br> 🎥 [Playlist - Sensors And Actuator](https://youtube.com/playlist?list=PL91lquAVmESBqKLU0Tn5gRVXVyW5KLgCa&si=VlORpKvxQ9g0DJzH)<br> 🎥 [Coursera - Embedding Sensors and Motors Specialization](https://www.coursera.org/specializations/embedding-sensors-motors) |
 | 🟦 **ESP32 Fundamentals**            | 📖 [Espressif – ESP32 Documentation](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/)<br> 🎥 [Playlist - انترنت الأشياء - ESP32](https://youtube.com/playlist?list=PLUKyI8ySgdwrBECztHBOPhtHgB79BLgdJ&si=7Kfr3OsGlqT0zKMH)<br> 📄 [Tutorial - Intro to the ESP32](https://makeabilitylab.github.io/physcomp/esp32/esp32.html)            |
 | 🛠️ **ESP-IDF**                      | 📖 [ESP-IDF Programming Guide](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/)<br> 🎥 [Playlist - IoT Firmware Development with ESP32 and ESP-IDF](https://youtube.com/playlist?list=PL3bNyZYHcRSXm0mNZLiu5hj5ScufC_au9&si=2KoKZ_4J0qlr59Sg)<br> 🎥 [Playlist - ESP32 with ESP-IDF and Embedded C Step by Step](https://youtube.com/playlist?list=PLOYsAys6a6mmeowMVksJWEIzdKOBMh20q&si=4iWcmghXpijQ35Yy)      |
@@ -55,35 +55,38 @@ Build projects while learning instead of waiting until you finish the entire lev
 | 🚗 **CAN Bus**            | 📖 [Arduino CAN Library](https://docs.arduino.cc/libraries/can/)                                                           |
 | 📡 **Wi-Fi**              | 📖 [ESP-IDF Wi-Fi Documentation](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-guides/wifi.html)         |
 | 🟦 **Bluetooth / BLE**    | 📖 [ESP-IDF Bluetooth Documentation](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/bluetooth/) |
-| 📨 **MQTT Fundamentals**  | 🌐 [MQTT.org](https://mqtt.org/)                                                                                           |
-| 📨 **MQTT Essentials**    | 🎓 [HiveMQ MQTT Essentials](https://www.hivemq.com/mqtt-essentials/)                                                       |
-| 🌍 **HTTP & REST APIs**   | 📖 [MDN – HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)                                                         |
-| 🐍 **Python for IoT**     | 🎓 [Python Official Tutorial](https://docs.python.org/3/tutorial/)                                                         |
-| 🖥️ **Raspberry Pi**      | 📖 [Raspberry Pi Documentation](https://www.raspberrypi.com/documentation/)                                                |
-| 🚀 **FastAPI**            | 📖 [FastAPI Documentation](https://fastapi.tiangolo.com/)                                                                  |
-| 🗄️ **Databases**         | 🎓 [SQLBolt](https://sqlbolt.com/)                                                                                         |
-| 📊 **IoT Dashboards**     | 🟠 [Node-RED](https://nodered.org/)                                                                                        |
-| 📈 **Data Visualization** | 📊 [Grafana Documentation](https://grafana.com/docs/)                                                                      |
+| 📨 **MQTT Fundamentals**  | 🌐 [MQTT.org](https://mqtt.org/)<br> 📄 [GeeksForGeeks - Introduction of Message Queue Telemetry Transport Protocol (MQTT)](https://www.geeksforgeeks.org/computer-networks/introduction-of-message-queue-telemetry-transport-protocol-mqtt/)<br> 🎥 [Playlist - MQTT Essentials](https://youtube.com/playlist?list=PLRkdoPznE1EMXLW6XoYLGd4uUaB6wB0wd&si=div-lpgkgtFgR-7M) |
+| 📨 **MQTT Essentials**    | 🎓 [HiveMQ MQTT Essentials](https://www.hivemq.com/mqtt-essentials/) |
+| 🌍 **HTTP & REST APIs**   | 📄 [MDN – HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)<br> 🎥 [Video - What is a REST API?](https://youtu.be/lsMQRaeKNDk?si=vCK5mKDHDIj_c9k-)<br> 📄 [testomat.io - HTTP API vs. REST API: What’s the Difference](https://testomat.io/blog/http-api-vs-rest-api-key-differences-explained/)<br> 📄 [Amazon API Gateway - Choose between REST APIs and HTTP APIs](https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-vs-rest.html) |
+| 🐍 **Python for IoT**     | 🎓 [Python Official Tutorial](https://docs.python.org/3/tutorial/)<br> 📄 [GeeksForGeeks - Internet of Things with Python](https://www.geeksforgeeks.org/python/internet-of-things-with-python/)<br> 🎥 [Playlist - Python for IOT Basics](https://www.youtube.com/playlist?list=PLjtZnTDdmzGYvrHh_jXvENIvpttmy2ifT)<br> 📄 [TopCoder - Python in IoT(Internet of Things)](https://www.topcoder.com/thrive/articles/python-in-iot-internet-of-things) |
+| 🖥️ **Raspberry Pi**      | 📄 [Raspberry Pi Documentation](https://www.raspberrypi.com/documentation/)<br> 📄 [OpenSource.com - What is a Raspberry Pi](https://opensource.com/resources/raspberry-pi)<br> 🎥 [YouTube Channel - Raspberry Pi](https://www.youtube.com/@raspberrypi/playlists) |
+| 🚀 **FastAPI**            | 📄 [FastAPI Documentation](https://fastapi.tiangolo.com/)<br> 🎥 [FreeCodeCamp - FastAPI Course for Beginners](https://youtu.be/tLKKmouUams?si=bs__H-aQm2JQZE1g)<br> 🎥 [Corey Schafer - FastAPI Tutorials](https://youtube.com/playlist?list=PL-osiE80TeTsak-c-QsVeg0YYG_0TeyXI&si=p1QNe7cloy6u4as9) |
+| 🗄️ **Databases**         | 🎓 [SQLBolt](https://sqlbolt.com/)<br> 📄 [AI2SQL - sqlbolt: Examples, How It Works, Best Practices](https://ai2sql.io/learn/sqlbolt)<br> 🎥 [FreeCodeCamp - Databases In-Depth – Complete Course](https://youtu.be/pPqazMTzNOM?si=BDo3o2Oi7ykcumin)<br> 📄 [GeeksForGeeks - Introduction to Database](https://www.geeksforgeeks.org/dbms/what-is-database/)<br> 📄 [Oracle - What Is a Database](https://www.oracle.com/database/what-is-database/)<br> 🎥 [Maharatech - Database Fundamentals](https://maharatech.gov.eg/course/view.php?id=740) |
+| 📊 **IoT Dashboards**     | 📄 [Node-RED](https://nodered.org/)<br> 🎥 [playlist - Node Red in Arabic](https://youtube.com/playlist?list=PLLwOOaWvQWtNQvrtcCQfL76kLE-kh2Ob0&si=SMgI1WlAL9ikY7Q3)<br> 🎥 [playlist - Node-RED Tutorials](https://youtube.com/playlist?list=PLKYvTRORAnx6a9tETvF95o35mykuysuOw&si=npXMfc0xH8XuhQf6)<br> 📄 [IBM Developer - Node-RED](https://developer.ibm.com/components/node-red/) |
+| 📈 **Data Visualization** | 📄 [Grafana Documentation](https://grafana.com/docs/)<br> 📕 [GitHub - grafana](https://github.com/grafana/grafana)<br> 🎥 [YouTube Channel - Grafana](https://www.youtube.com/@Grafana)<br> 🎥 [edureka - Grafana Tutorial For Beginners](https://youtu.be/w-c3KYKQQfs?si=8Sdv4AYdtEZcq1dH) |
 
 ### 🔄 Important IoT Architecture
 
 At this stage, start thinking in terms of complete data pipelines:
 
-```text
-Sensor
-   ↓
-ESP32
-   ↓
-Wi-Fi
-   ↓
-MQTT
-   ↓
-Backend / Gateway
-   ↓
-Database
-   ↓
-Dashboard
-```
+flowchart TD
+
+    A[📡 Sensors] --> B[🟦 ESP32 / IoT Device]
+    B --> C[📶 Wi-Fi / BLE / LoRaWAN]
+    C --> D[📨 MQTT / HTTP]
+    D --> E[🌐 Backend / IoT Gateway]
+
+    E --> F[⚙️ Data Engineering]
+    F --> G[🗄️ Clean & Organized Data]
+
+    G --> H[📊 Data Storage]
+    G --> I[🤖 Data Science]
+
+    H --> J[📈 Dashboard & Visualization]
+    I --> K[🧠 Predictive Models / Edge AI]
+
+    J --> L[💡 Insights & Monitoring]
+    K --> L
 
 ### 🎯 Intermediate Projects
 
