@@ -157,7 +157,7 @@ flowchart TD
 | 📡 **LoRaWAN**                        | 🌐 [LoRa Alliance](https://lora-alliance.org/)                                                               |
 | 📶 **LoRaWAN Fundamentals**           | 📖 [The Things Network](https://www.thethingsnetwork.org/docs/lorawan/)                                      |
 | ⚡ **Edge Computing**                  | 📖 [AWS – Edge Computing](https://aws.amazon.com/edge/)                                                      |
-| 🤖 **TinyML**                         | 🎓 [Harvard TinyML Course](https://pll.harvard.edu/course/tiny-machine-learning)                             |
+| 🤖 **TinyML**                         | 🎓 [Harvard TinyML Course](https://www.edx.org/certificates/professional-certificate/harvardx-tiny-machine-learning)|
 | 🧠 **Edge AI**                        | 📖 [Edge Impulse Documentation](https://docs.edgeimpulse.com/)                                               |
 | 🏭 **Industrial IoT**                 | 📖 [NIST – Smart Manufacturing](https://www.nist.gov/programs-projects/smart-manufacturing)                  |
 | 🔄 **Digital Twins**                  | 📖 [Microsoft – Azure Digital Twins](https://learn.microsoft.com/en-us/azure/digital-twins/)                 |
