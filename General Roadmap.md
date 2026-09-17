@@ -68,7 +68,7 @@ Build projects while learning instead of waiting until you finish the entire lev
 ### 🔄 Important IoT Architecture
 
 At this stage, start thinking in terms of complete data pipelines:
-
+```mermaid
 flowchart TD
 
     A[📡 Sensors] --> B[🟦 ESP32 / IoT Device]
@@ -87,7 +87,7 @@ flowchart TD
 
     J --> L[💡 Insights & Monitoring]
     K --> L
-
+```
 ### 🎯 Intermediate Projects
 
 8. 📡 **ESP32 → MQTT → PC**
