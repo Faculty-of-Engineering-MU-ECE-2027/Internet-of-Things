@@ -2,6 +2,40 @@
 
 > A structured roadmap to learn **Internet of Things (IoT)** from the fundamentals of electronics and embedded systems to advanced topics such as **Cloud IoT, Edge Computing, TinyML, and Industrial IoT**.
 
+## IoT Architecture
+
+After completing this roadmap, you should be able to understand and eventually build systems following an architecture such as:
+
+```text
+flowchart TD
+             🌍 PHYSICAL WORLD
+                    │
+                    ▼
+             📡 Sensors / Actuators
+                    │
+                    ▼
+              🟦 ESP32 / MCU
+                    │
+                    ▼
+          📶 Wi-Fi / BLE / LoRaWAN
+                    │
+                    ▼
+               📨 MQTT
+                    │
+             ┌──────┴──────┐
+             ▼             ▼
+       ⚡ Edge Layer     ☁️ Cloud
+             │             │
+          AI/ML        Database
+             │             │
+             └──────┬──────┘
+                    ▼
+             📊 Dashboard
+                    │
+                    ▼
+              👤 Application
+```
+
 This roadmap is divided into **three levels**:
 
 * 🟢 **Beginner** — Build the fundamental hardware, programming, and networking knowledge.
@@ -224,38 +258,6 @@ AWS's current tutorials explicitly support learning paths from connecting a firs
 
 ---
 
-## 🏆 Final IoT Architecture
-
-After completing this roadmap, you should be able to understand and eventually build systems following an architecture such as:
-
-```text
-             🌍 PHYSICAL WORLD
-                    │
-                    ▼
-             📡 Sensors / Actuators
-                    │
-                    ▼
-              🟦 ESP32 / MCU
-                    │
-                    ▼
-          📶 Wi-Fi / BLE / LoRaWAN
-                    │
-                    ▼
-               📨 MQTT
-                    │
-             ┌──────┴──────┐
-             ▼             ▼
-       ⚡ Edge Layer     ☁️ Cloud
-             │             │
-          AI/ML        Database
-             │             │
-             └──────┬──────┘
-                    ▼
-             📊 Dashboard
-                    │
-                    ▼
-              👤 Application
-```
 
 > 💡 **Final Tip:** IoT is an interdisciplinary field. You don't need to master every area equally. Build enough **electronics + embedded systems** knowledge to work with hardware, then develop stronger skills in **networking, software, cloud, security, and AI** according to your specialization.
 
