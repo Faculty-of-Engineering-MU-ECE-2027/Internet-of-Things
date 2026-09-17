@@ -8,32 +8,34 @@ After completing this roadmap, you should be able to understand and eventually b
 
 ```text
 flowchart TD
-             🌍 PHYSICAL WORLD
-                    │
-                    ▼
-             📡 Sensors / Actuators
-                    │
-                    ▼
-              🟦 ESP32 / MCU
-                    │
-                    ▼
-          📶 Wi-Fi / BLE / LoRaWAN
-                    │
-                    ▼
-               📨 MQTT
-                    │
-             ┌──────┴──────┐
-             ▼             ▼
-       ⚡ Edge Layer     ☁️ Cloud
-             │             │
-          AI/ML        Database
-             │             │
-             └──────┬──────┘
-                    ▼
-             📊 Dashboard
-                    │
-                    ▼
-              👤 Application
+
+    A[🌍 PHYSICAL WORLD]
+    B[📡 Sensors / Actuators]
+    C[🟦 ESP32 / MCU]
+    D[📶 Wi-Fi / BLE / LoRaWAN]
+    E[📨 MQTT]
+    F[⚡ Edge Layer]
+    G[☁️ Cloud]
+    H[🤖 AI / ML]
+    I[🗄️ Database]
+    J[📊 Dashboard]
+    K[👤 Application]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+
+    E --> F
+    E --> G
+
+    F --> H
+    G --> I
+
+    H --> J
+    I --> J
+
+    J --> K
 ```
 
 This roadmap is divided into **three levels**:
