@@ -262,28 +262,3 @@ AWS's current tutorials explicitly support learning paths from connecting a firs
 
 
 > 💡 **Final Tip:** IoT is an interdisciplinary field. You don't need to master every area equally. Build enough **electronics + embedded systems** knowledge to work with hardware, then develop stronger skills in **networking, software, cloud, security, and AI** according to your specialization.
-
-### 🚀 Suggested Specialization for AI/ECE Students
-
-If your goal is to combine **ECE + AI**, a particularly useful direction is:
-
-```text
-ESP32
-  ↓
-Embedded Systems
-  ↓
-Networking + MQTT
-  ↓
-Cloud IoT
-  ↓
-IoT Security
-  ↓
-Edge Computing
-  ↓
-TinyML / Edge AI
-  ↓
-AI-Powered IoT Systems
-```
-
-This gives you a path from **physical sensing → embedded computing → communication → cloud → artificial intelligence**.
-
