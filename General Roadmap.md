@@ -6,7 +6,7 @@
 
 After completing this roadmap, you should be able to understand and eventually build systems following an architecture such as:
 
-```text
+```mermaid
 flowchart TD
 
     A[🌍 PHYSICAL WORLD]
